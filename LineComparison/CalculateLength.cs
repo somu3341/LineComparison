@@ -31,7 +31,7 @@ namespace LineComparison
             if (line1.CompareTo(line2)> 0)
                 Console.WriteLine("Line1 is Greater than Line2");
             if (line1.CompareTo(line2) < 0)
-                Console.WriteLine("Line1 is Less than Line2 ");                
+                Console.WriteLine("Line1 is Less than Line2 ");
         }
     }
 }
